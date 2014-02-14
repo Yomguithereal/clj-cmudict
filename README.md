@@ -19,11 +19,7 @@ lein install
 
 Then include the same vector within your `project.clj` and you should be good to go.
 
-**N.B.**: To build the JavaScript version if needed, just run the following command.
-
-```
-lein cljsbuild once
-```
+**N.B.** The library is quite heavy for it encapsulates the cmudict as a whole an is not an API client.
 
 ## Usage
 
