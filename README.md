@@ -2,6 +2,29 @@
 
 *clj-cmudict* is a simple wrapper for the [CMU Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict).
 
+## Installation
+To install the lastest version from [clojars](https://clojars.org/), just add the following vector to the `:dependencies` section of your `project.clj` file.
+
+```clj
+[clj-cmudict "0.1.0"]
+```
+
+To install the latest version from the current source, clone the repository and install with leiningen.
+
+```
+git clone https://github.com/Yomguithereal/clj-cmudict.git
+cd clj-cmudict
+lein install
+```
+
+Then include the same vector within your `project.clj` and you should be good to go.
+
+**N.B.**: To build the JavaScript version if needed, just run the following command.
+
+```
+lein cljsbuild once
+```
+
 ## Usage
 
 To get the arpabet code of a single word
