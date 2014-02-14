@@ -1,0 +1,11 @@
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+/scripts/cmudict.0.7.a.txt
+/scripts/results.txt
