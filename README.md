@@ -5,7 +5,8 @@
 ## Usage
 
 To get the arpabet code of a single word
-```
+
+```clj
 (use 'clj-cmudict.core)
 
 (first (arpabet "shine"))
