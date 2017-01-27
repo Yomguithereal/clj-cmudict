@@ -7,5 +7,5 @@ pom.xml.asc
 *.class
 /.lein-*
 /.nrepl-port
-/scripts/cmudict.0.7.a.txt
+/scripts/cmudict.0.7.b.txt
 /scripts/results.txt
