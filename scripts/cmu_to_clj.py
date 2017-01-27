@@ -1,6 +1,6 @@
 import re
 
-with open('cmudict.0.7.a.txt', 'r') as cmuf:
+with open('cmudict.0.7.b.txt', 'r') as cmuf:
     cmu = cmuf.read().splitlines()
 
 cljmap = ''
