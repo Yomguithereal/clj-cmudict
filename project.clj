@@ -1,4 +1,4 @@
-(defproject clj-cmudict "0.1.0"
+(defproject clj-cmudict "0.2.0"
   :description "Clojure wrapper for the CMU Pronouncing Dictionary."
   :url "https://github.com/Yomguithereal/clj-cmudict"
   :license {:name "MIT"

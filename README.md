@@ -6,7 +6,7 @@
 To install the lastest version from [clojars](https://clojars.org/), just add the following vector to the `:dependencies` section of your `project.clj` file.
 
 ```clj
-[clj-cmudict "0.1.0"]
+[clj-cmudict "0.2.0"]
 ```
 
 To install the latest version from the current source, clone the repository and install with leiningen.
